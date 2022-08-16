@@ -1,6 +1,6 @@
 # Nrby Node GraphQL Backend Template
 
-This is a skeleton template of a backend that is based on NodeJS and Apollo Server Express module. You may fork this project whenever you want to write a graphql server from scratch.
+This is a skeleton template of a backend that is based on Python and Flask module. You may fork this project whenever you want to write a graphql server from scratch.
 
 
 ## Required Installation
